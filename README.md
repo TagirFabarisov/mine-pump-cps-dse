@@ -1,5 +1,8 @@
 # Mine-Pump CPS Case Study
 
+Stochastic mine-pump CPS model with STL property monitoring and Fault Injection for temporal-property-driven Design-Space Exploration
+now published on MATLAB File Exchange: https://nl.mathworks.com/matlabcentral/fileexchange/184555-mine-pump-cps-case-study-for-temporal-property-driven-dse
+
 An executable MATLAB/Simulink model of a methane-sensitive mine-pump
 cyber-physical system, developed as the case study for temporal-property-driven
 design-space exploration in the IECON 2026 paper below. The repository provides
